@@ -91,10 +91,6 @@ namespace quanlythongtin
 
         static void Main(string[] args)
         {
-
-
-
-
             int n;
             Console.Write("Nhap so luong SV:");
             n = int.Parse(Console.ReadLine());
